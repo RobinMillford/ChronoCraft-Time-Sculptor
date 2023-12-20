@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ChronoCraft-Time-Sculptor.git
+   git clone https://github.com/RobinMillford/ChronoCraft-Time-Sculptor.git
    ```
 
 2. **Navigate to the project directory:**
