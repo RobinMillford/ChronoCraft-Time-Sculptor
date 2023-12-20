@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
         dateTimeElement.innerHTML = dateString;
     }
 
-    // Initialing update and interval (update every 1000 milliseconds or 1 second)
+    // initializing update and interval (update every 1000 milliseconds or 1 second)
     updateClock();
     setInterval(updateClock, 1000);
 });
